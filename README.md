@@ -1,5 +1,5 @@
-# web
-simple web mysql db inscriber
+## Web-DB
+Simple web mysql db inscriber.
 
-# WARNING
-## add in index.php your mysql user, pssword, db, table
+### WARNING
+Add in index.php your mysql user, pssword, db, table.
